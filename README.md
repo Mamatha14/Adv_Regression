@@ -1,7 +1,7 @@
 # Adv_Regression
 ### Problem Statement:
 - Predicting the Sale Price of the houses using Advanced Regression Models such as Ridge and Lasso.
-- Whcih are the variables significant in predicting the house price and how well those variables describe the house price.
+- Whcih are the variables significant in predicting the house price and how well those variables describe the house price?
 ### Steps involved:
 - Data Understanding
 - Data Cleaning: Checking for missing values, highly skewed variables & outliers and treating them.
